@@ -4181,7 +4181,7 @@
       "properties": {
         "ID": "63",
         "IDVASO": " 63 ",
-        "DESCVASO": " VASO 48-A "
+        "DESCVASO": "VASO 48-A"
       },
       "geometry": {
         "coordinates": [
@@ -4228,7 +4228,7 @@
       "properties": {
         "ID": "64",
         "IDVASO": " 64 ",
-        "DESCVASO": " VASO 51 "
+        "DESCVASO": "VASO 51"
       },
       "geometry": {
         "coordinates": [
@@ -4394,7 +4394,7 @@
       "properties": {
         "ID": "76",
         "IDVASO": " 76 ",
-        "DESCVASO": " VASO 5-B "
+        "DESCVASO": "VASO 5-B"
       },
       "geometry": {
         "coordinates": [
@@ -4449,7 +4449,7 @@
       "properties": {
         "ID": "77",
         "IDVASO": " 77 ",
-        "DESCVASO": " VASO 26-B "
+        "DESCVASO": "VASO 26-B"
       },
       "geometry": {
         "coordinates": [
@@ -4572,7 +4572,7 @@
       "properties": {
         "ID": "80",
         "IDVASO": " 80 ",
-        "DESCVASO": " VASO 52 "
+        "DESCVASO": "VASO 52"
       },
       "geometry": {
         "coordinates": [

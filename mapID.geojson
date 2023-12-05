@@ -4,7 +4,9 @@
   {
    "type": "Feature",
    "properties": {
-    "ID": ""
+    "ID": "",
+    "IDVASO": " 00 ",
+    "DESCVASO": " VASO  "
    },
    "geometry": {
     "coordinates": [
@@ -3192,7 +3194,7 @@
    "properties": {
     "ID": "44",
     "IDVASO": " 44 ",
-    "DESCVASO": " VASO 42 "
+    "DESCVASO": " VASO 44 "
    },
    "geometry": {
     "coordinates": [
